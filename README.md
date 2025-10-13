@@ -18,7 +18,7 @@ A Flutter application dedicated to **pet lovers**, offering a community space to
 
 ## 📸 Screenshots  
 
-| ![Screenshot 1](path/to/image1.png) | ![Screenshot 2](path/to/image2.png) | ![Screenshot 3](path/to/image3.png) |
+| ![Screenshot 1](flutter_01.png) | ![Screenshot 2](flutter_02.png) | ![Screenshot 3](flutter_03.png) ![Screenshot 4](flutter_04.png) | ![Screenshot 5](flutter_05.png) | ![Screenshot 6](flutter_06.png)|
 |:--:|:--:|:--:|
 | Example 1 | Example 2 | Example 3 |
 
