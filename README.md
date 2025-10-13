@@ -18,11 +18,12 @@ A Flutter application dedicated to **pet lovers**, offering a community space to
 
 ## 📸 Screenshots  
 
-| ![Screenshot 1](flutter_01.png) | ![Screenshot 2](flutter_02.png) | ![Screenshot 3](flutter_03.png) ![Screenshot 4](flutter_04.png) | ![Screenshot 5](flutter_05.png) | ![Screenshot 6](flutter_06.png)|
+| ![Screenshot 1](flutter_01.png) | ![Screenshot 2](flutter_02.png) | ![Screenshot 3](flutter_03.png) |
 |:--:|:--:|:--:|
-| Example 1 | Example 2 | Example 3 |
+| ![Screenshot 4](flutter_04.png) | ![Screenshot 5](flutter_05.png) | ![Screenshot 6](flutter_06.png) |
 
-> 📝 Replace the paths above with actual image links from your `/assets` folder or uploaded images on GitHub.
+> 📝 Make sure the image files (e.g., `flutter_01.png`, `flutter_02.png`, etc.) are located in your repository — either in the root folder or inside an `/assets` or `/screenshots` directory.  
+> You can also use direct image links from GitHub or Vercel if you want them to render properly on your README.
 
 ---
 
