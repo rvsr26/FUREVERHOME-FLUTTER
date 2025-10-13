@@ -1,6 +1,6 @@
 # 🐾 FurEver Home  
 
-### 🌐 [Live on Vercel →](https://fur-ever-home-git-webbuild-bharath-balas-projects.vercel.app/)
+### 🌐 [Live on Vercel →](https://fureverhome-flutter-ava4jjai4-rvsr26s-projects.vercel.app/)
 
 A Flutter application dedicated to **pet lovers**, offering a community space to share stories, learn about animals, and support pet adoption and welfare.
 
@@ -21,9 +21,6 @@ A Flutter application dedicated to **pet lovers**, offering a community space to
 | ![Screenshot 1](flutter_01.png) | ![Screenshot 2](flutter_02.png) | ![Screenshot 3](flutter_03.png) |
 |:--:|:--:|:--:|
 | ![Screenshot 4](flutter_04.png) | ![Screenshot 5](flutter_05.png) | ![Screenshot 6](flutter_06.png) |
-
-> 📝 Make sure the image files (e.g., `flutter_01.png`, `flutter_02.png`, etc.) are located in your repository — either in the root folder or inside an `/assets` or `/screenshots` directory.  
-> You can also use direct image links from GitHub or Vercel if you want them to render properly on your README.
 
 ---
 
