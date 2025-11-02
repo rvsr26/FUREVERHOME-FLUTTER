@@ -1,6 +1,6 @@
 # 🐾 FurEver Home  
 
-### 🌐 [Live on Vercel →](https://fureverhome-flutter-ava4jjai4-rvsr26s-projects.vercel.app/)
+### 🌐 [Live  →]([https://fureverhome-flutter-ava4jjai4-rvsr26s-projects.vercel.app/](https://flutever.netlify.app/))
 
 A Flutter application dedicated to **pet lovers**, offering a community space to share stories, learn about animals, and support pet adoption and welfare.
 
